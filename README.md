@@ -63,7 +63,7 @@ The official, opinionated, batteries-included toolset for efficient Redux develo
 ```bash
 npm install zustand
 ```
-A small, fast and scalable bearbones state-management solution using simplified flux principles.
+A small, fast and scalable barebones state-management solution using simplified flux principles.
 
 ### Jotai
 ```bash
